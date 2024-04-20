@@ -1,0 +1,38 @@
+﻿<div class="text-center">
+    <h6 class="display-6">Live Chat Room</h6>
+
+    <div class="row pt-md-2" style="height:400px">
+
+       @*  <div class="col-sm-2 rounded m-2" style="background-color:#e9edc9 ">
+            <h5 class="m-2"> Connected Users</h5>
+        </div> *@
+
+        <div class="col-sm-9 rounded m-2 p-2" style="background-color:#ccd5ae">
+           <div id="MessagContainer">
+
+
+
+              @*   <div class="card bg-light text-dark m-md-3 " style="width:fit-content" id="MessageCard">
+
+                    <div class="card-body p-2" style="text-align:left" >
+                        <h6>Usama Suhaib</h6>
+                        <p class="m-2">Hello Ali how are you ali ? wher are you studying now?</p>
+                    </div>
+                </div> *@
+           </div>
+       
+
+            <form class="row g-3  mt-lg-4 ms-lg-2" >
+                <div class="col-8" >
+                    <input type="text" class="form-control" id="messageInput" placeholder="Write message Here...">
+                </div>
+                <div class="col-auto ">
+                    <input class="btn btn-primary" type="button" id="sendButton" value="Send Message" />
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>

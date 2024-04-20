@@ -1,0 +1,854 @@
+2024-03-19 03:10:13.1101|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 03:10:13.1341|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 03:10:13.1341|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 03:10:13.1341|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 03:10:13.7069|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Home/Chats|action: 
+2024-03-19 03:10:13.7939|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:10:13.7939|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:10:17.8106|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:14:36.1235|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 03:14:36.1340|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 03:14:36.1340|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 03:14:36.1340|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 03:14:37.5651|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2024-03-19 03:14:37.6223|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 03:14:37.6366|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 03:14:58.9664|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 03:14:58.9664|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 03:15:01.8528|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 03:15:01.8528|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 03:15:02.6218|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:15:02.6218|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:15:06.1472|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:15:08.3651|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:16:12.4454|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:16:12.4454|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:16:36.3238|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:16:36.3238|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:16:52.2953|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:16:52.2953|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:17:04.7415|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:17:04.7415|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:17:06.2485|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:17:06.2485|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:17:07.4967|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:17:11.7922|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:18:16.0740|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:18:16.0740|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:18:18.8105|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:18:20.4270|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:18:28.3575|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:18:28.3575|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:18:40.0930|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:18:40.0930|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:19:06.6560|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:19:06.6560|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:19:46.5564|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:19:46.5564|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:20:25.8973|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 03:20:25.8973|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 03:20:25.8973|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 03:20:25.8973|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 03:20:26.4134|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Home/Chats|action: 
+2024-03-19 03:20:26.4680|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:20:26.4737|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:20:26.7873|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:20:26.7873|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:20:29.9045|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:20:58.2447|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:20:58.2447|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:21:02.4839|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:21:20.8715|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:21:20.8715|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:21:24.0932|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:21:40.6122|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:21:40.6139|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:21:43.5985|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:21:52.1123|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:21:52.1123|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:21:54.7751|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:21:59.5901|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:22:32.0515|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:22:32.0515|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:22:34.0415|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:22:35.6804|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:22:44.9613|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:22:44.9613|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:22:48.1312|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:22:49.3363|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:22:51.7051|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:23:05.2101|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:23:05.2202|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:23:08.0972|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:23:09.3063|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:23:10.9401|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:24:11.6353|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:11.6353|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:20.2723|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:20.2781|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:23.0593|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:24:24.5466|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:24:32.3205|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:24:34.3293|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:24:36.6433|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:24:42.4334|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:42.4334|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:44.2525|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:44.2525|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:44.6476|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:44.6476|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:44.8333|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:24:44.8333|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:26:13.7120|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:26:13.7120|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:33:02.3330|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:33:02.3330|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:33:21.8834|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:33:21.8834|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:34:03.8351|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:34:03.8351|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:36:07.3382|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:36:09.0986|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:38:39.3045|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:39.3045|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:39.8077|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:39.8077|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.0154|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.0154|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.1936|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.1936|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.3588|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.3588|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.5098|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.5098|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.6707|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:38:40.6707|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:40:21.3702|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:40:33.1459|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:40:33.1459|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:40:38.6941|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:40:38.6941|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:40:44.4420|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:40:44.4420|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:40:56.7496|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:55:19.6768|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:55:19.6768|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:55:26.8037|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:55:26.8037|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:57:08.1325|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 03:57:08.1482|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 03:57:08.1482|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 03:57:08.1482|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 03:57:10.7550|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2024-03-19 03:57:10.8495|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 03:57:10.8495|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 03:57:17.4584|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:57:17.4584|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:57:30.1724|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:57:30.3646|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:57:50.1140|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:58:16.0212|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:58:23.9764|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:58:32.8190|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 03:58:45.4686|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:45.4686|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:46.0546|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:46.0546|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:46.2388|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:46.2388|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:46.4322|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:46.4322|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:48.3331|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 03:58:48.3331|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:01:05.0995|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:01:07.4827|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:02:39.1644|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:02:40.7248|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:40.7248|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:41.1525|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:41.1525|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:41.3179|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:41.3179|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:42.5695|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:02:43.7706|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:43.7706|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:44.1373|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:44.1373|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:44.3013|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:44.3013|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:02:48.8350|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:02:54.3814|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:03:32.0836|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:32.0836|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:34.3813|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:03:37.0415|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:03:39.4112|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:03:40.4686|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:40.4765|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:40.9838|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:40.9838|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:41.1928|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:41.1928|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:03:44.1629|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:04:18.9822|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:04:21.4113|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:04:24.6667|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:04:27.7478|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:27.7478|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:27.9598|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:27.9598|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:28.2656|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:28.2656|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:28.4313|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:28.4313|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:04:36.4754|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:32:02.3787|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 04:32:02.3904|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 04:32:02.3904|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 04:32:02.3904|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 04:32:05.9267|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2024-03-19 04:32:06.0094|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 04:32:06.0314|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 04:32:07.6057|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:32:07.6057|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:32:17.7160|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:32:21.7736|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:33:22.6299|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:22.6299|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:23.2713|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:23.2713|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:23.6530|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:23.6530|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.0549|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.0549|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.2451|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.2451|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.4360|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.4360|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.6317|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.6317|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.9285|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:24.9285|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:25.1023|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:25.1023|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:25.2591|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:25.2591|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:25.4752|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:33:25.4752|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:35:10.4950|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:42:12.7618|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 04:42:12.7618|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 04:42:12.7618|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 04:42:12.7618|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 04:42:17.3495|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Home/Chats|action: 
+2024-03-19 04:42:17.4331|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:42:17.4451|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:44:09.6285|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:44:22.3441|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:46:22.0869|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:46:31.8797|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:49:58.8172|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:49:58.8172|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:22.5053|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:22.5053|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:42.1780|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 04:50:42.1780|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 04:50:42.1780|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 04:50:42.1780|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 04:50:42.9620|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Home/Chats|action: 
+2024-03-19 04:50:43.0209|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:43.0209|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:43.0366|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:43.0366|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:43.0676|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:43.0676|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:50:47.2823|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:51:01.6929|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 04:51:08.2738|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:08.2738|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:08.8856|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:08.8856|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:09.3816|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:09.3816|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:09.5749|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:09.5749|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:09.7871|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 04:51:09.7871|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:51:26.8950|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 21:51:26.9006|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 21:51:26.9006|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 21:51:26.9006|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 21:51:32.9282|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2024-03-19 21:51:33.0206|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 21:51:33.0436|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 21:51:54.0520|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:51:54.0520|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:52:08.7760|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while retrieving cached messages StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 1, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=4,Max=32767), POOL: (Threads=8,QueuedItems=0,CompletedItems=417,Timers=7), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.GetCachedMessages() in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 77|url: http://localhost/chatHub|action: 
+2024-03-19 21:52:14.7299|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 2, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=4,Max=32767), POOL: (Threads=8,QueuedItems=0,CompletedItems=490,Timers=7), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:52:14.7299|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 21:54:38.9276|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:54:38.9276|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:54:40.3970|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:54:40.3970|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:54:44.7419|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while retrieving cached messages StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Initializing, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 4, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=8,QueuedItems=0,CompletedItems=1934,Timers=9), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.GetCachedMessages() in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 77|url: |action: 
+2024-03-19 21:54:45.7273|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while retrieving cached messages StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 4, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=8,QueuedItems=0,CompletedItems=1942,Timers=8), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.GetCachedMessages() in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 77|url: http://localhost/chatHub|action: 
+2024-03-19 21:54:51.7261|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 5, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=4,Max=32767), POOL: (Threads=8,QueuedItems=0,CompletedItems=2003,Timers=8), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:54:51.7261|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 21:54:58.7237|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Initializing, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 6, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=8,QueuedItems=0,CompletedItems=2075,Timers=8), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:54:58.7257|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 21:55:22.7297|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 7, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=4,QueuedItems=0,CompletedItems=2275,Timers=9), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:55:22.7297|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 21:56:24.2556|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 21:56:24.2556|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 21:56:24.2556|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 21:56:24.2556|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 21:56:25.2697|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/Home/Chats|action: 
+2024-03-19 21:56:25.4144|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:56:25.4144|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 21:56:25.4503|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:56:25.4503|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 21:56:25.9970|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 21:56:25.9970|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 21:56:28.5546|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:56:28.5546|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:56:42.0978|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while retrieving cached messages StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 2, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=4,Max=32767), POOL: (Threads=7,QueuedItems=0,CompletedItems=415,Timers=5), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.GetCachedMessages() in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 77|url: http://localhost/chatHub|action: 
+2024-03-19 21:56:42.0978|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while retrieving cached messages StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 2, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=4,Max=32767), POOL: (Threads=7,QueuedItems=0,CompletedItems=415,Timers=5), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.GetCachedMessages() in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 77|url: http://localhost/chatHub|action: 
+2024-03-19 21:56:50.0767|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 3, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=7,QueuedItems=0,CompletedItems=505,Timers=8), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:56:50.0767|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 21:56:56.0636|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 4, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=4,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=568,Timers=7), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:56:56.0636|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 21:57:02.0679|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 5, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=4,Max=32767), POOL: (Threads=6,QueuedItems=0,CompletedItems=627,Timers=7), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:57:02.0679|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 21:57:07.0733|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Initializing, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 7, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=5,QueuedItems=1,CompletedItems=701,Timers=9), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: |action: 
+2024-03-19 21:57:07.0733|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: |action: 
+2024-03-19 21:57:07.6026|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:57:07.6026|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 21:57:11.0670|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 1, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 8, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=5,QueuedItems=0,CompletedItems=815,Timers=8), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: |action: 
+2024-03-19 21:57:11.0678|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: |action: 
+2024-03-19 21:57:13.0772|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while retrieving cached messages StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 8, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=5,QueuedItems=0,CompletedItems=829,Timers=7), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.GetCachedMessages() in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 77|url: http://localhost/chatHub|action: 
+2024-03-19 21:57:18.0775|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Initializing, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 9, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=4,Max=32767), POOL: (Threads=5,QueuedItems=0,CompletedItems=894,Timers=8), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 21:57:18.0775|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 22:05:52.0703|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Idle, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 10, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=2,Free=32765,Min=4,Max=32767), POOL: (Threads=5,QueuedItems=0,CompletedItems=4756,Timers=5), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 22:05:52.0703|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 22:05:57.0693|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 11, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=1,Free=32766,Min=4,Max=32767), POOL: (Threads=5,QueuedItems=0,CompletedItems=4794,Timers=7), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 22:05:57.0693|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 22:06:02.0761|0|ERROR|SignalR.Redis.Hubs.ChatHub|Error occurred while storing message in cache StackExchange.Redis.RedisConnectionException: The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=HMGET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Initializing, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 12, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: PC-USAMASUHAIB(SE.Redis-v2.7.33.41805), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=4,Max=32767), POOL: (Threads=5,QueuedItems=0,CompletedItems=4847,Timers=7), v: 2.7.33.41805 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts)
+ ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). ConnectTimeout
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAndRefreshAsync(String key, Boolean getData, CancellationToken token)
+   at Microsoft.Extensions.Caching.StackExchangeRedis.RedisCache.GetAsync(String key, CancellationToken token)
+   at Microsoft.Extensions.Caching.Distributed.DistributedCacheExtensions.GetStringAsync(IDistributedCache cache, String key, CancellationToken token)
+   at SignalR.Redis.Hubs.ChatHub.StoreMessageAsync(String userName, String message) in F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\Hubs\ChatHub.cs:line 43|url: http://localhost/chatHub|action: 
+2024-03-19 22:06:02.0761|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:17:57.5568|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 23:17:57.5900|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 23:17:57.5900|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 23:17:57.5900|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 23:18:00.6888|22|WARN|Microsoft.AspNetCore.Server.Kestrel|As of "03/20/2024 06:18:00 +00:00", the heartbeat has been running for "00:00:01.2113291" which is longer than "00:00:01". This could be caused by thread pool starvation. |url: |action: 
+2024-03-19 23:18:02.1840|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2024-03-19 23:18:02.2584|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 23:18:02.2784|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 23:18:03.9141|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:03.9141|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:10.5406|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:18:23.1508|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:23.1508|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:23.7115|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:23.7115|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:24.1032|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:24.1032|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:25.6968|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:18:27.1632|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:18:28.6204|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:18:29.6219|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:29.6219|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:30.2211|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:30.2211|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:30.7174|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:30.7174|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:30.9107|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:30.9107|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:31.1099|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:31.1099|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:31.3020|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:31.3020|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:31.5369|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:31.5369|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:39.3742|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:18:56.6146|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:56.6146|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:18:58.4210|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:18:59.8884|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:21:41.9453|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:41.9453|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:42.5096|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:42.5096|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:42.7242|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:42.7242|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:42.9580|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:42.9783|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:43.4699|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:21:43.4699|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:27:13.9287|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:28:00.2575|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:28:20.0519|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:28:38.6351|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:28:43.5651|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:29:07.5901|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:29:29.6373|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:30:19.7563|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:32:42.6771|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:32:45.9151|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'SignalR.Redis.Controllers.HomeController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:33:26.1680|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5241 |url: |action: 
+2024-03-19 23:33:26.1680|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2024-03-19 23:33:26.1680|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2024-03-19 23:33:26.1680|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis |url: |action: 
+2024-03-19 23:33:56.7622|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2024-03-19 23:33:56.9179|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 23:33:56.9187|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 23:34:39.5096|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:34:39.5096|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:34:40.0265|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:34:47.4372|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:34:49.1704|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:34:51.6527|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:34:52.9125|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:34:52.9125|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:34:52.9896|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:34:53.7082|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:34:53.7082|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:34:53.7713|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:34:59.5910|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:35:09.9679|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:35:09.9679|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:35:10.1704|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:35:10.7743|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:35:10.7743|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:35:10.8208|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:36:56.6309|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:36:56.6309|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:36:56.7088|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:36:57.2237|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:36:57.2237|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:36:57.3263|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:36:57.4371|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:36:57.4371|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:36:57.5127|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:36:58.8697|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:37:00.4227|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:37:01.5277|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:37:01.5277|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:37:01.5835|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:37:02.1187|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:37:02.1187|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:37:02.1640|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:37:02.6413|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:37:02.6413|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:37:02.7076|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:38:14.9648|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:38:14.9648|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:38:15.7774|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:39:49.7122|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:39:49.7122|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:39:49.9531|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:39:51.6666|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:39:51.6666|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:39:51.7519|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:39:56.8194|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:39:56.8194|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:39:56.8993|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:39:58.2651|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:40:00.1937|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:40:00.8016|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:00.8016|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:00.8977|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:40:01.5985|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:01.5985|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:01.6781|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:40:02.1826|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:02.1826|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:02.2459|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:40:02.6859|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:02.6859|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:02.7589|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:40:02.8651|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:02.8651|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:02.9118|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:40:03.2879|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:03.2879|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:40:03.3439|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:41:16.0030|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:16.0030|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:18.5850|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:41:25.7553|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:25.7553|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:25.7975|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:41:46.7138|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:46.7138|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:46.8948|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:41:52.3407|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:41:55.8486|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:55.8486|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:55.9351|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:41:56.7424|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:56.7424|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:56.8198|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:41:57.4460|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:57.4460|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:41:57.4926|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:41:59.2358|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:42:00.9956|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:42:19.3968|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:42:19.3968|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:42:19.7797|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:44:52.8132|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:44:52.8132|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:44:52.9335|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:46:31.4841|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:46:31.4841|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:46:31.6445|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:47:00.3986|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:47:00.3986|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:47:00.5188|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:47:03.7757|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:47:03.7757|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:47:03.8811|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:47:06.0624|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:47:08.2882|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:47:10.5683|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:47:11.9984|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:47:11.9984|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:47:12.0916|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:48:12.7716|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:48:12.7716|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:48:13.0073|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:48:20.9012|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:48:20.9012|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:48:21.1091|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:48:23.1861|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:49:51.3784|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:49:51.3784|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:49:51.6817|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:49:55.1302|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:49:55.1302|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:49:55.2086|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:49:57.0044|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:50:02.2247|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:02.2247|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:02.3103|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:50:06.0378|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Privacy|action: Privacy
+2024-03-19 23:50:06.4385|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:06.4385|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:06.5149|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:50:06.9113|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:06.9113|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:06.9577|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:50:07.0935|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:07.0935|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:07.1462|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:50:08.5524|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:50:12.4960|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/|action: Index
+2024-03-19 23:50:12.4960|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the index! |url: http://localhost/|action: Index
+2024-03-19 23:50:14.5360|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:14.5360|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:50:14.7709|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:51:33.2750|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:51:33.2750|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:51:33.5438|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:51:46.5674|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:51:46.5674|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:51:46.8341|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:52:06.3961|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:06.3961|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:06.5893|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:52:08.5426|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:08.5426|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:08.8412|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:52:12.3169|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:12.3169|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:12.5517|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:52:14.7393|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:52:16.7714|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:16.7714|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:17.0238|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:52:17.6234|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:17.6234|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:52:17.8620|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:07.6096|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:07.6096|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:07.8520|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:13.4493|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:13.4493|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:13.6810|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:15.2098|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:55:16.7418|0|INFO|SignalR.Redis.Hubs.ChatHub|Message Sent to all users |url: http://localhost/chatHub|action: 
+2024-03-19 23:55:17.8978|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:17.8978|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:18.1178|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:22.5456|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:22.5456|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:22.8026|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:29.3318|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:29.3318|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:29.5537|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:31.5597|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:31.5597|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:31.7759|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:32.5844|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:32.5844|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:32.7875|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:41.6505|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:41.6505|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:41.9324|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:45.5288|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:45.5288|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:45.7872|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:46.6543|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:46.6543|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:46.8178|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:55:47.5189|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:47.5209|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:55:47.8312|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:59:04.3686|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:04.3686|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:04.7629|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:59:40.2786|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:40.2786|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:40.6259|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:59:46.6708|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:46.6708|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:46.8963|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:59:54.0612|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:54.0612|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:54.2725|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages
+2024-03-19 23:59:58.7082|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:58.7082|0|INFO|SignalR.Redis.Controllers.HomeController|Hello, this is the Chat page! |url: http://localhost/Home/Chats|action: Chats
+2024-03-19 23:59:58.8986|1|DEBUG|SignalR.Redis.Controllers.HomeController|NLog injected into HomeController |url: http://localhost/Home/GetChatMessages|action: GetChatMessages

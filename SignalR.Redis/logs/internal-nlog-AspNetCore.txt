@@ -1,0 +1,105 @@
+2024-03-19 03:10:12.2178 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 03:10:12.2332 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 03:10:12.2332 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 03:10:12.2424 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 03:10:12.2598 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:10:12.2849 Info Configuration initialized.
+2024-03-19 03:10:12.4975 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:14:34.5817 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 03:14:34.6150 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 03:14:34.6150 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 03:14:34.6150 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 03:14:34.6511 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:14:34.6766 Info Configuration initialized.
+2024-03-19 03:14:35.3417 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:20:24.9942 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 03:20:25.0159 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 03:20:25.0159 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 03:20:25.0280 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 03:20:25.0429 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:20:25.0429 Info Configuration initialized.
+2024-03-19 03:20:25.3212 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:57:01.0917 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 03:57:01.1508 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 03:57:01.1508 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 03:57:01.1685 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 03:57:01.1955 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:57:01.2246 Info Configuration initialized.
+2024-03-19 03:57:02.4992 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:57:05.1740 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 03:57:05.1922 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 03:57:05.1934 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 03:57:05.1934 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 03:57:05.6901 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 03:57:05.7431 Info Configuration initialized.
+2024-03-19 03:57:06.4851 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 04:31:57.5710 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 04:31:57.6592 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 04:31:57.6592 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 04:31:57.6868 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 04:31:57.7265 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 04:31:57.7572 Info Configuration initialized.
+2024-03-19 04:32:01.0474 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 04:42:11.7394 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 04:42:11.7920 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 04:42:11.7920 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 04:42:11.8044 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 04:42:11.8216 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 04:42:11.8414 Info Configuration initialized.
+2024-03-19 04:42:12.1526 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 04:50:41.3767 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 04:50:41.3990 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 04:50:41.3990 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 04:50:41.4209 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 04:50:41.4337 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 04:50:41.4580 Info Configuration initialized.
+2024-03-19 04:50:41.6473 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 21:51:23.8125 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 21:51:23.8320 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 21:51:23.8320 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 21:51:23.8448 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 21:51:23.8632 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 21:51:23.8861 Info Configuration initialized.
+2024-03-19 21:51:25.7947 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 21:56:22.8542 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 21:56:22.8795 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 21:56:22.8795 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 21:56:22.8943 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 21:56:22.9172 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 21:56:22.9398 Info Configuration initialized.
+2024-03-19 21:56:23.1588 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 23:17:50.7042 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 23:17:50.7644 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 23:17:50.7644 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 23:17:50.7833 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 23:17:50.8148 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 23:17:50.8595 Info Configuration initialized.
+2024-03-19 23:17:53.8669 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 23:33:22.3720 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-19 23:33:22.4618 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-19 23:33:22.4618 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-19 23:33:22.4794 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 23:33:22.5046 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-19 23:33:22.5225 Info Configuration initialized.
+2024-03-19 23:33:24.9281 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-20 00:22:33.3332 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-20 00:22:33.3487 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-20 00:22:33.3487 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-20 00:22:33.3487 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-20 00:22:33.3712 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-20 00:22:33.3878 Info Configuration initialized.
+2024-03-20 00:22:33.6809 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-20 01:13:53.9293 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-20 01:13:54.0258 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-20 01:13:54.0258 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-20 01:13:54.0430 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-20 01:13:54.0875 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-20 01:13:54.1222 Info Configuration initialized.
+2024-03-20 01:13:55.0286 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-20 04:35:10.3575 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-03-20 04:35:10.4080 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-03-20 04:35:10.4080 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-03-20 04:35:10.4267 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-20 04:35:10.4450 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
+2024-03-20 04:35:10.4675 Info Configuration initialized.
+2024-03-20 04:35:11.0140 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=F:\.NetCoreProjects\SignalR.Redis\SignalR.Redis\bin\Debug\net8.0\NLog.config
